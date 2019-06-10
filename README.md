@@ -8,3 +8,6 @@
 
 ### 3. Implementation of RSA Digital Signature Scheme 
 <a href="https://github.com/shweteekta/Collection-of-Python-Programs/blob/master/Rsads.py"/>
+
+### 4. Fastest Maths Challenge
+<a href="https://github.com/shweteekta/Collection-of-Python-Programs/blob/master/mathrandom.py"/>
